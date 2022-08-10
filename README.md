@@ -1,3 +1,12 @@
+#To Do List 
+A Basic Good looking To Do List
+
+#Description
+A To Do List that allows a user to add new tasks, mark tasks as Important or Normal, and delete the task when completed. 
+
+#Build with 
+React and Materialui
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
