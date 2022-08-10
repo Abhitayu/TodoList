@@ -21,7 +21,7 @@ const AddData = (props) => {
     <div>
         {props.event.map((d)=>(
         <div className="event">
-           <Box sx={{ width: '100%', maxWidth: 360, bgcolor: '#90caf9', borderRadius:5}}key={d.id}>
+           <Box sx={{ width: '100%', maxWidth: 360, bgcolor: '#90caf9', borderRadius:6}}key={d.id}>
               <Box sx={{ my: 3, mx: 2 }}>
                 <Grid container alignItems="center">
                   <Grid item xs>
