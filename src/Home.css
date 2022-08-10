@@ -1,0 +1,25 @@
+
+.container{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+.upper-part{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.0)
+      ),url('../public/background2.jpg');
+    background-size: cover;
+    padding-bottom: 10px;
+}
+.upper-part h1{
+    padding: 50px;
+    letter-spacing: 10px;
+}
+.input-part{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    color: white;
+}
